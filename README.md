@@ -2,7 +2,7 @@
 
 **`Security Researcher & Developer in Training`**
 
-I'm a 17-year-old cybersecurity enthusiast building my skills through hands-on projects and practical learning. I'm passionate about understanding how systems work—and how they can be secured. All my projects are built from the ground up, focusing on real-world security concepts and ethical hacking principles.
+I'm a 17-year-old cybersecurity enthusiast building my skills through hands-on projects and practical learning. I'm passionate about understanding how systems work and how they can be secured. All my projects are built from the ground up, focusing on real-world security concepts and ethical hacking principles.
 
 ---
 
