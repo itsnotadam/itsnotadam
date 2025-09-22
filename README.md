@@ -19,18 +19,3 @@ I'm a 17-year-old cybersecurity enthusiast building my skills through hands-on p
 </div>
 
 ---
-
-## 💻 Active Research Projects
-
-### 👨‍🏫 Professor Ping - Educational DDoS Research Tool
-- **Purpose**: Learning about botnet architecture and DDoS mitigation techniques
-- **Features**: Telegram C&C server, multi-platform deployment, real-time monitoring
-- **Focus**: Understanding attack vectors and defensive countermeasures
-- **Status**: Active development - security research project
-
-### 🌐 Network Security Lab
-- **Environment**: Virtualized penetration testing lab
-- **Tools**: Metasploit, Wireshark, Nmap, Burp Suite
-- **Focus**: Vulnerability assessment and exploit development
-- **Methodology**: Ethical hacking and responsible disclosure
-
